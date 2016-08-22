@@ -10,7 +10,6 @@
         <link href="css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-
         <nav class="navbar navbar-inverse">
             <div class="container-fluid">
                 <div class="navbar-header">
@@ -50,6 +49,7 @@
 
         <?php
         // put your code here
+        echo 'hola';
         ?>
     </body>
 </html>
